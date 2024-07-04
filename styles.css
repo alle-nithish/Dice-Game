@@ -35,6 +35,15 @@ img {
   text-align: center;
 }
 
+.roll {
+  text-align: center;
+}
+
+a {
+  font-size: 2.5rem;
+  color: rgb(129, 0, 0);
+}
+
 footer {
   margin-top: 3%;
   color: #EEEEEE;
