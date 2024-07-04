@@ -8,10 +8,10 @@ document.querySelector(".img1").setAttribute("src", "./images/" + diceImage1);
 document.querySelector(".img2").setAttribute("src", "./images/" + diceImage2);
 
 if(randomNum1 > randomNum2){
-    document.querySelector("h1").innerHTML="Player1 Wins!";
+    document.querySelector("h1").innerHTML="Player 1 Wins!";
 }
 else if(randomNum2 > randomNum1){
-    document.querySelector("h1").innerHTML="Player2 Wins!";
+    document.querySelector("h1").innerHTML="Player 2 Wins!";
 }
 else { 
     document.querySelector("h1").innerHTML="Draw!";
