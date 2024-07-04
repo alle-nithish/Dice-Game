@@ -7,7 +7,6 @@
 .dice {
   text-align: center;
   display: inline-block;
-
 }
 
 body {
@@ -31,9 +30,6 @@ p {
 img {
   width: 80%;
 }
-.roll {
-  text-align: center;
-}
 
 .roll {
   text-align: center;
@@ -49,5 +45,4 @@ footer {
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
-
 }
